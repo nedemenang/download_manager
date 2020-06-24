@@ -1,0 +1,3 @@
+export const GET_DOWNLOADS = "GET_DOWNLOADS";
+export const POST_DOWNLOADS = "POST_DOWNLOADS";
+export const GET_ERRORS = "GET_ERRORS";

@@ -1,0 +1,12 @@
+h1 {
+  font-size: 60px;
+  padding-bottom: 2%;
+  margin-top: 3%;
+  text-align: center;
+}
+
+@media (max-width: 700px) {
+  h1 {
+    font-size: 50px;
+  }
+}

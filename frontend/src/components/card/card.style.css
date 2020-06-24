@@ -1,0 +1,35 @@
+.card-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #8f8eec;
+  border: 1px solid grey;
+  overflow: auto;
+  flex-wrap: wrap;
+  border-radius: 5px;
+  padding: 25px;
+  cursor: pointer;
+  -moz-osx-font-smoothing: grayscale;
+  backface-visibility: hidden;
+  transform: translateZ(0);
+  transition: transform 0.25s ease-out;
+}
+
+.card-container:hover {
+  transform: scale(1.05);
+}
+
+table {
+  width: 100% !important;
+}
+
+td {
+  width: 100% !important;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  hyphens: auto;
+}
+
+tr td:last-child {
+  width: 1%;
+  white-space: nowrap;
+}
