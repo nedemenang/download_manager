@@ -4,7 +4,7 @@ This is a simple application that simulates a download manager to demonstrate kn
 * ReactJs
 * NestJS
 * Docker and Docker-compose
-* Queue and Websockets
+* Queues and Websockets
 * MongoDB and Mongoose
 
 It is a simple application with two endpoints:
