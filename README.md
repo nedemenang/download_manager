@@ -1,6 +1,6 @@
-# STEARS MOVIE DOWNLOADER
+# Download Manager
 ## PROJECT DESCRIPTION
-This is a simple application that demonstrates knowledge of the following technologies:
+This is a simple application that simulates a download manager to demonstrate knowledge of the following technologies:
 * ReactJs
 * NestJS
 * Docker and Docker-compose
