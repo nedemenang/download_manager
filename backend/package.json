@@ -30,7 +30,7 @@
     "@nestjs/platform-socket.io": "^7.1.2",
     "@nestjs/websockets": "^7.1.2",
     "@types/socket.io": "^2.1.8",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bull": "^3.14.0",
     "mongoose": "^5.9.16",
     "reflect-metadata": "^0.1.13",
